@@ -4,9 +4,9 @@ Una vez que se ingrese a la ruta de acceso al sistema se displiega la página en
 
 El usuario y la clave segun estructura interna tiene acceso tipo:
 
-OPERADOR : Registro de información en los módulos 
+OPERADOR : Registro de información en los módulos
 
-APROBADOR : Aprobación de módulos de POA Y PAC 
+APROBADOR : Aprobación de módulos de POA Y PAC
 
-Una vez ingresada en usuario y clave debe dra click en 
+Una vez ingresada en usuario y clave debe dra click en![](/assets/ACEPTAR.jpg)
 
