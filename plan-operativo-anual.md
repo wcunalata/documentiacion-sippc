@@ -1,18 +1,20 @@
-SDLFAJSDLKFJSADKLFJASKLFJSAD FASF LSADKJF ALSKJFKLASJF LKASJF LSAF
+## PLAN OPERATIVO ANUAL 
 
-SF
+![](/assets/DIRECCION FINANCIERA 2012 - 2017 - Epic Privacy Browser_2.jpg)
 
-AS
 
-FAS
 
-DDF
 
-AS
 
-FDAS
 
-D
+
+
+
+![](/assets/POA1.jpg)
+
+
+
+![](/assets/POA2.jpg)
 
 
 
