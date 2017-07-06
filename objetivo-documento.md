@@ -14,11 +14,11 @@
 
 ![](/assets/cancelar.jpg) ![](/assets/CANCELAR_2.jpg) =  Permite eliminar los cambios en los registros de datos.
 
-![](/assets/ACEPTAR.jpg) = Permite ingresar al sistema posterior a ingresar el usuario y clave 
-
-
+![](/assets/ACEPTAR.jpg) = Permite ingresar al sistema posterior a ingresar el usuario y clave
 
 ![](/assets/lista desplegable .jpg)![](/assets/combo2.jpg) = Permite selecionar del listado desplegable en el caso se presente.
 
 ![](/assets/procesar.jpg) = Permite procesar e iniciar los procesos de POA Y PAC
+
+![](/assets/subir.jpg)  = Subir un nivel en formulario de registro.
 
