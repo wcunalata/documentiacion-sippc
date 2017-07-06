@@ -6,13 +6,21 @@
 
 #### Iconos de las operaciones comunes :
 
-![](/assets/nuevo2.jpg)![](/assets/nuevo.jpg) = Permite creación de nuevos registros en todos los módulos
+![](/assets/nuevo2.jpg)![](/assets/nuevo.jpg) = Permite creación de nuevos registros en todos los módulos.
 
-![](/assets/eliminar.jpg) = Permite eliminara un registro de datos en todos los módulos
+![](/assets/eliminar.jpg) = Permite eliminara un registro de datos en todos los módulos.
+
+![](/assets/grabar.jpg) = Permite grabar los cambios en los registros de datos. 
+
+![](/assets/cancelar.jpg) =  Permite eliminar los cambios en los registros de datos. 
+
+![](/assets/lista desplegable .jpg)![](/assets/combo2.jpg) = Permite selecionar del listado desplegable en el caso se presente. 
 
 
 
-#### 
+![](/assets/procesar.jpg) = Permite procesar e iniciar los procesos de POA Y PAC 
+
+
 
 
 
