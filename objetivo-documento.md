@@ -6,13 +6,13 @@
 
 #### Iconos de las operaciones comunes :
 
-![](/assets/nuevo2.jpg)![](/assets/nuevo.jpg) = Permite creación de nuevos registros en todos los módulos 
+![](/assets/nuevo2.jpg)![](/assets/nuevo.jpg) = Permite creación de nuevos registros en todos los módulos
 
-![](/assets/eliminar.jpg) = Permite eliminara un registro de datos en todos los módulos 
+![](/assets/eliminar.jpg) = Permite eliminara un registro de datos en todos los módulos
+
+
 
 #### 
-
-
 
 
 
