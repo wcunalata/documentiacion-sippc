@@ -7,5 +7,6 @@
 * [OBJETIVO TÁCTICO/ ESTRATEGIAS](objetivo-tactico.md)
 * [ESTRATEGIAS](estrategias.md)
 * [PROYECTO](proyecto.md)
-* [PLAN OPERATIVO ANUAL](plan-operativo-anual.md)
+* [REGISTRO PLAN OPERATIVO ANUAL](plan-operativo-anual.md)
+* [APROBAR PLAN OPERATIVO ANUAL](aprobar-plan-operativo-anual.md)
 

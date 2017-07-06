@@ -14,13 +14,13 @@ Para el registro de lieas de planificación se debe primero seleccionar :
 
 ![](/assets/pry8.jpg)![](/assets/pry9.jpg)  El proyecto aprobado y seleccionarlo en caso de necesitar verificar los proyecto click en ![](/assets/nuevo9.jpg)
 
-Una vez seleccionado el proyecto se selecciona  ![](/assets/indicador9.jpg) la actividad en caso de necesitar adicionales dar click en el + y se genera el formulario : 
+Una vez seleccionado el proyecto se selecciona  ![](/assets/indicador9.jpg) la actividad en caso de necesitar adicionales dar click en el + y se genera el formulario :
 
-![](/assets/nactividad.jpg) 
+![](/assets/nactividad.jpg)
 
 En el que se debe registrar el proyecto , actividad e indicador y dar click en GUARDAR, a esperar que el DEAC realize la validación y aprobación del mismo.
 
-De manera similar en caso de necesitar nuevo INDICADOR se debe dar click en \(+\)  y se genera el formulario : 
+De manera similar en caso de necesitar nuevo INDICADOR se debe dar click en \(+\)  y se genera el formulario :
 
 ![](/assets/nindicador.jpg) de manera similar se debe registar el nuevo indicador y dar click en ENVIAR , a espera de aprobación de parte del DEAC.
 
@@ -30,11 +30,17 @@ LINEA BASE % : Lo alcanzado en cada año , en caso de ser nuevas debe ser 0.
 
 PROYECCIÓN % : La proyección de la planificación sobre actividad/ indicador.
 
-S1: Porcentaje de avance al Semetre1.
+S1: Porcentaje de avance al Semetre1\(puede ser 0 , a desarrollarse todo en el semestre2\).
 
 S2: Porcentaje de avance al Semetre2.
 
+Beneficiarios : Número de beneficiarios \(entidad tipo educación deberian ser los estudiantes\).
 
+Responsable: El cargo de la persona que esta a cargo de esta actividad / indicador.
+
+Obteniendo una planificación como la siguiente :![](/assets/P11.jpg)Finalmente click en agregar :![](/assets/P12.jpg)
+
+Obteniendo la planificación de la siguiente manera :![](/assets/p13.jpg)En caso de que se necesite realizar algun cambio a nivel de valores dar doble click en el registro :![](/assets/p14.jpg)En el que se puede modificar los campos que se habilite , finalment click en grabar.
 
 
 
