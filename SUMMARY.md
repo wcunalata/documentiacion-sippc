@@ -10,6 +10,6 @@
 * [REGISTRO PLAN OPERATIVO ANUAL](plan-operativo-anual.md)
 * [APROBAR PLAN OPERATIVO ANUAL](aprobar-plan-operativo-anual.md)
 * [REPORTE PLAN OPERATIVO ANUAL](reporte-plan-operativo-anual.md)
-* [CONTACTOS](enlaces.md)
 * [SEGUIMIENTO](seguimiento.md)
+* [CONTACTOS](enlaces.md)
 
