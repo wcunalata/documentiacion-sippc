@@ -12,6 +12,7 @@
 * [REPORTE PLAN OPERATIVO ANUAL](reporte-plan-operativo-anual.md)
 * [ASIGNACION DE TECHOS A CARRERAS](asignacion-de-techos-a-carreras.md)
 * [PLAN ANUAL DE COMPRAS](plan-anual-de-compras.md)
+* [REPORTES PLAN OPERATIVO ANUAL](reportes-plan-operativo-anual.md)
 * [SEGUIMIENTO](seguimiento.md)
 * [CONTACTOS](enlaces.md)
 

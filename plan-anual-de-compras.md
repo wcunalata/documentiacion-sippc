@@ -18,7 +18,7 @@ Una vez procesado el componente a planificar en la parte superior de la pagina s
 
 ![](/assets/saldos.jpg)
 
-Con los datos antes expuestos se procede a realizar la planificación del Plan Anual de Compras 
+Con los datos antes expuestos se procede a realizar la planificación del Plan Anual de Compras
 
 ![](/assets/pac11.jpg)En el que se debe seleccionar como en el Plan Operativo Anual :
 
@@ -32,8 +32,6 @@ Seguidamente se debe digitar el nombre del bien que se necesite planificar su ad
 
 En el caso de necesitar desplegar el total del listado por ITEM PRESUPUESTARIO solo digite la letra A.
 
-
-
 ![](/assets/pca13.jpg)Una vez seleccionado el bien / servicio de adquisición se muestra el formulario en que se debe poner las especificaciones exactas y tecnicas de lso bienes o servicios a adquirir.
 
 ![](/assets/pac14.jpg)Una vez dado click en ACEPTAR se depliega la información sobre ese bien y segun sea el caso :
@@ -42,7 +40,11 @@ BIEN : Digitar la cantidad ANUAL a adquirir y el Cuatrimestre para el mismo.
 
 SERVICIO : Ingresae el Costo Unitario , Cantidad Anual y el Cuatrimestre.
 
-Finalmente dar click en + de color verde para pdoer grabar .
+Finalmente dar click en + de color verde para poder grabar .
+
+Una vez realizado este proceso se refleja la información de esta manera 
+
+![](/assets/CARGADO1.jpg)Y se tiene las opciones de exportar este detalle a PDF, EXCEL.
 
 
 
