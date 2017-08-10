@@ -10,6 +10,8 @@
 * [REGISTRO PLAN OPERATIVO ANUAL](plan-operativo-anual.md)
 * [APROBAR PLAN OPERATIVO ANUAL](aprobar-plan-operativo-anual.md)
 * [REPORTE PLAN OPERATIVO ANUAL](reporte-plan-operativo-anual.md)
+* [ASIGNACION DE TECHOS A CARRERAS](asignacion-de-techos-a-carreras.md)
+* [PLAN ANUAL DE COMPRAS](plan-anual-de-compras.md)
 * [SEGUIMIENTO](seguimiento.md)
 * [CONTACTOS](enlaces.md)
 
