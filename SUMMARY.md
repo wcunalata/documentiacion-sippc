@@ -13,6 +13,8 @@
 * [ASIGNACION DE TECHOS A CARRERAS](asignacion-de-techos-a-carreras.md)
 * [PLAN ANUAL DE COMPRAS](plan-anual-de-compras.md)
 * [REPORTES PLAN OPERATIVO ANUAL](reportes-plan-operativo-anual.md)
-* [SEGUIMIENTO](seguimiento.md)
+* HABILTACION COMPONENTES POA
+* USUARIO HABILITAR MODO CONSULTAS / OPERATIVO
 * [CONTACTOS](enlaces.md)
+* [SEGUIMIENTO](seguimiento.md)
 
