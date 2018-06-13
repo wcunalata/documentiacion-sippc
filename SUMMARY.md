@@ -14,7 +14,7 @@
 * [PLAN ANUAL DE COMPRAS](plan-anual-de-compras.md)
 * [REPORTES PLAN OPERATIVO ANUAL](reportes-plan-operativo-anual.md)
 * [HABILITACION COMPONENTES POA](habiltacion-componentes-poa.md)
-* [USUARIO HABILITAR MODO CONSULTAS / OPERATIVO](usuario-habilitar-modo-consultas-operativo.md)
+* [ADMIN USUARIOS](usuario-habilitar-modo-consultas-operativo.md)
 * [CONTACTOS](enlaces.md)
 * [SEGUIMIENTO](seguimiento.md)
 
