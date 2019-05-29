@@ -1,6 +1,7 @@
 # Summary
 
 * [INTRODUCCIÓN](README.md)
+* [BENEFICIOS](beneficios.md)
 * [OBJETIVO DOCUMENTO](objetivo-documento.md)
 * [ACCESO](acceso.md)
 * [OBJETICO ESTRATÉGICO](objetico-estrategico.md)
@@ -16,5 +17,5 @@
 * [HABILITACION COMPONENTES POA](habiltacion-componentes-poa.md)
 * [ADMIN USUARIOS](usuario-habilitar-modo-consultas-operativo.md)
 * [CONTACTOS](enlaces.md)
-* [SEGUIMIENTO](seguimiento.md)
+* BENEFICIOS
 
