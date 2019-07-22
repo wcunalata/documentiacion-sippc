@@ -6,7 +6,7 @@ Una vez ingresada al sistema, se debe ingresar a PROYECTOS :
 
 Se nos muestra la siguiente información  :![](/assets/DIRECCION FINANCIERA 2012 - 2017 - Epic Privacy Browser_3.jpg)
 
-En la que se puede :
+En la que se puede :::
 
 ![](/assets/pry1.jpg)Agregar filtros de información de los proyectos y trabajar con un proyecto específico.
 
