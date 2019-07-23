@@ -1,15 +1,20 @@
 LINK INFORMATIVO
 
-https://2factelec.uta.edu.ec/info/sippc/ot.php \(información de alineacion de objetivos\).
+[https://2factelec.uta.edu.ec/info/sippc/ot.php](https://2factelec.uta.edu.ec/info/sippc/ot.php) \(información de alineacion de objetivos\).
 
-http://10.102.114.6/ \(sistema de planificación , presupuestos y compras\).
+[http://10.102.114.6/](http://10.102.114.6/)
 
-CORREO DE SOPORTE 
+http://serviciosdf.uta.edu.ec:899/apps/index.php
 
-* Soporte del Sistema : 033730260 ext 5120
+
+
+ \(sistema de planificación , presupuestos y compras\).
+
+CORREO DE SOPORTE
+
+* Soporte del Sistema SIPPC : wcunalata@uta.edu.ec
+
 * Soporte Deac : apoveda@uta.edu.ec
-
-
 
 
 
